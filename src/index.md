@@ -2,14 +2,16 @@
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline:
-actionText: Quick Start →
+actionText: 快速上手
 actionLink: /guide/
 features:
-  - title: Feature 1 Title
-    details: Feature 1 Description
-  - title: Feature 2 Title
-    details: Feature 2 Description
-  - title: Feature 3 Title
-    details: Feature 3 Description
-footer: Made by  with ❤️
+  - title: 简单
+    details: 免费搭建，简单部署
+  - title: 易用
+    details: 功能丰富，兼容性强
+  - title: 安全
+    details: 隐私安全，内容安全
+footer: Released under the MIT License. (dev)
+
+Copyright © 2023 arzhp
 ---
